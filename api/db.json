@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "streams",
+      "id": 4
+    },
+    {
+      "title": "New stream",
+      "description": "Stream with user id ...",
+      "id": 6
+    },
+    {
+      "title": "New Stream 2",
+      "description": "Stream  with userid...",
+      "id": 7
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "Navigation done!!",
+      "userId": "103435384609822807948",
+      "id": 9
+    }
+  ]
+}
