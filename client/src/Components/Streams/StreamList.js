@@ -26,7 +26,7 @@ class StreamList extends Component {
       return(
         <div className="item" key={stream.id}>
           {this.renderAdmin(stream)}
-          <i className="large middle aligned icon camera" />
+          <i className="large middle aligned icon video" />
           <div className="content">
               <Link to={`/streams/${stream.id}`} className="header">
                 {stream.title}
@@ -53,7 +53,7 @@ class StreamList extends Component {
   render(){
       return (
         <div>
-          <h2>Streams</h2>
+          <h2>Available Streams</h2>
           <div className="ui celled list">{this.renderList()}</div>
           {this.renderCreate()}
         </div>

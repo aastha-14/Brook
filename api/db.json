@@ -1,25 +1,28 @@
 {
   "streams": [
     {
-      "title": "My stream",
-      "description": "streams",
-      "id": 4
-    },
-    {
-      "title": "New stream",
-      "description": "Stream with user id ...",
-      "id": 6
-    },
-    {
-      "title": "New Stream 2",
-      "description": "Stream  with userid...",
-      "id": 7
-    },
-    {
-      "title": "Programmatic navigation",
-      "description": "Navigation done!!",
+      "title": "Stream 1",
+      "description": "Test Stream!!",
       "userId": "103435384609822807948",
-      "id": 9
+      "id": 1
+    },
+    {
+      "title": "Stream 2",
+      "description": "Test Stream!",
+      "userId": "103435384609822807948",
+      "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "Test Stream!",
+      "userId": "103435384609822807948",
+      "id": 3
+    },
+    {
+      "title": "Stream 4",
+      "description": "Test!",
+      "userId": "115584910896270947741",
+      "id": 4
     }
   ]
 }
